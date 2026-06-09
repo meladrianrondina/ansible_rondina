@@ -1,2 +1,4 @@
 # ansible_rondina
-in git this
+
+THis is project is for COnfigurement Management using Ansible
+
